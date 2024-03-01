@@ -5,7 +5,7 @@ export default function Testimonials() {
   return (
     <div>
       <div
-        id="certifications-container"
+        id="testimonials-container"
         className="certifications-container py-20 px-16 bg-slate-950"
         style={{ zIndex: 100, position: "relative" }}
       >

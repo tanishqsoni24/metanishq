@@ -78,6 +78,9 @@ export default function Navbar() {
           <a href="#certifications-container" className="certification">
             Certifications
           </a>
+          <a href="#testimonials-container" className="certification">
+            Testimonials
+          </a>
           <a
             href="https://tanishqsoni.hashnode.dev/"
             target="_blank"
@@ -145,6 +148,13 @@ export default function Navbar() {
             onClick={handleNavItemClick}
           >
             Certifications
+          </a>
+          <a
+            href="#testimonials-container"
+            className="certification"
+            onClick={handleNavItemClick}
+          >
+            Testimonials
           </a>
           <a
             href="https://tanishqsoni.hashnode.dev/"
