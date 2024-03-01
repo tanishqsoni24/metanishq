@@ -3,33 +3,38 @@
     "Name": "BookEat - Food & Restaurant Booking",
     "Desc": "BookEat, A web platform facilitating restaurant table reservations and food pre-orders Led implementation of OTP-based authentication for secure user and restaurant owner sign-ups. Ensured platform integrity through admin verification of restaurant listings, enhancing reliability and trustworthiness. Implemented geolocation integration for on-the-go restaurant locating, enhancing user convenience and accessibility.",
     "Demo": "https://bookeat.xyz/client/home-02.html",
-    "ImgSrc": "./proj1.png"
+    "ImgSrc": "./proj1.png",
+    "category": "frontend"
   },
 
   {
     "Name": "StingHike - A Self Earning Web Application",
     "Desc": "Developed a Self-Earning Web-App using Django, ReactJs and NodeJs. Developed an application business logic inside Django & payment logics inside NodeJs that ensures seamless/secure transactions. Implemented a wallet-recharge system, allowing users to fund their wallets for convenient and secure purchases. Designed and developed the system to distribute daily incomes to users based on their product purchases, enhancing user engagement and satisfaction",
     "Demo": "http://stinghike.com/",
-    "ImgSrc": "./proj3.png"
+    "ImgSrc": "./proj3.png",
+    "category": "fullstack"
   },
 
   {
     "Name": "Dermacet Organics | Official Webiste",
     "Desc": "Designed and developed a product-selling system from scratch using a variety of technologies, including HTML, CSS, javascript, Bootstrap Django and SQLite and deployed it using Nginx, Gunicorn & Digital Ocean as CSP • Worked in a team environment and used version controls like Git & GitHub for maintaining the Collaborative approach.",
     "Demo": "http://dermacet.in/",
-    "ImgSrc": "./proj2.png"
+    "ImgSrc": "./proj2.png",
+    "category": "fullstack"
   },
 
   {
     "Name": "Tracking - Track Your Buses in Real-Time",
     "Desc": "This is a powerful and flexible software solution designed to track the location and status of vehicles in real-time. Whether you're managing a fleet of delivery trucks, or monitoring public transportation, this system provides the tools you need to effectively manage and track vehicles. With this system, you can track the location of vehicles on a map, view historical location data, set up geofences, receive real-time alerts, and much more.",
     "GithubLink": "https://github.com/krish-ag/tracking-react",
-    "ImgSrc": "./proj4.png"
+    "ImgSrc": "./proj4.png",
+    "category": "fullstack"
   },
   {
     "Name": "PayU - A Mini Payment Gateway System",
     "Desc": "PayU is a secure web application designed to facilitate seamless transactions between bank accounts. With PayU, users can effortlessly transfer funds from one account to another with ease and peace of mind. Its intuitive interface and robust security measures ensure a smooth and reliable transaction experience for users, empowering them to manage their finances efficiently.",
     "GithubLink": "https://github.com/tanishqsoni24/paytm",
-    "ImgSrc": "./proj5.png"
+    "ImgSrc": "./proj5.png",
+    "category": "fullstack"
   }
 ]

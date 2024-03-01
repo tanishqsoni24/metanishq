@@ -6,6 +6,11 @@
   /* overflow-x: hidden; */
 }
 
+.selected{
+  background: rgb(14 165 233);
+  color: black !important;
+}
+
 .publication-item:before {
   content: "•";
   color: #0ea5e9;

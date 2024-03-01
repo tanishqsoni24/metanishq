@@ -9,6 +9,7 @@ export default function ProjectCard(props) {
         maxWidth: "20rem",
         minHeight: "10rem",
       }}
+      aria-category={props.Category}
     >
       <img
         src={props.ImgSrc}
