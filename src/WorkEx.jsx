@@ -16,7 +16,7 @@ export default function WorkEx() {
               <div className="marker"></div>
               <div className="timeline-content">
                 <h3 className="text-sky-500">Website Developer Intern</h3>
-                <span className="text-white">Nagpur, Maharashtra</span>
+                <span className="text-white">Axe Technologies Pvt. Ltd. : Nagpur, Maharashtra</span>
                 <p className="text-white mb-3">
                   <em>July 2023 - Jan 2024</em>
                 </p>
@@ -32,7 +32,7 @@ export default function WorkEx() {
               <div className="marker"></div>
               <div className="timeline-content">
                 <h3 className="text-sky-500">Api Engineer Intern</h3>
-                <span className="text-white">Bhopal, Madhya Pradesh</span>
+                <span className="text-white">Absolute Compliance : Bhopal, Madhya Pradesh</span>
                 <p className="text-white mb-3">
                   <em>June 2023 - Aug 2023</em>
                 </p>
@@ -67,7 +67,7 @@ export default function WorkEx() {
               <div className="marker"></div>
               <div className="timeline-content">
                 <h3 className="text-sky-500">Website Developer</h3>
-                <span className="text-white">Dermacet Organics</span>
+                <span className="text-white">Dermacet Organics : Delhi</span>
                 <p className="text-white mb-3">
                   <em>Feb 2023 - July 2023</em>
                 </p>
