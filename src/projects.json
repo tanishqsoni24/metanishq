@@ -25,5 +25,11 @@
     "Desc": "This is a powerful and flexible software solution designed to track the location and status of vehicles in real-time. Whether you're managing a fleet of delivery trucks, or monitoring public transportation, this system provides the tools you need to effectively manage and track vehicles. With this system, you can track the location of vehicles on a map, view historical location data, set up geofences, receive real-time alerts, and much more.",
     "GithubLink": "https://github.com/krish-ag/tracking-react",
     "ImgSrc": "./proj4.png"
+  },
+  {
+    "Name": "PayU - A Mini Payment Gateway System",
+    "Desc": "PayU is a secure web application designed to facilitate seamless transactions between bank accounts. With PayU, users can effortlessly transfer funds from one account to another with ease and peace of mind. Its intuitive interface and robust security measures ensure a smooth and reliable transaction experience for users, empowering them to manage their finances efficiently.",
+    "GithubLink": "https://github.com/tanishqsoni24/paytm",
+    "ImgSrc": "./proj5.png"
   }
 ]

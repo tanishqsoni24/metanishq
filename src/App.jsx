@@ -6,6 +6,7 @@ import Skills from "./Skills";
 import Projects from "./Projects";
 import Publications from "./Publication";
 import Certifications from "./Certifications";
+import Testimonials from "./Testimonials";
 import WorkEx from "./WorkEx";
 import Footer from "./Footer";
 
@@ -19,6 +20,7 @@ function App() {
       <WorkEx />
       <Projects />
       <Certifications />
+      <Testimonials />
       <Footer />
     </div>
   );

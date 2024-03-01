@@ -5,5 +5,19 @@
     "IssueDate": "Dec 2022",
     "Link": "https://www.coursera.org/account/accomplishments/certificate/WLERV9YWXDWB",
     "ImgSrc": "./metaCert.png"
+  },
+  {
+    "Name": "Motion Graphic Designer",
+    "Company": "Qwings",
+    "IssueDate": "Aug 2021",
+    "Link": "https://drive.google.com/file/d/1c84wM2fAJekqVKniGrm4R6Kv2Raoz-TP/view?usp=sharing",
+    "ImgSrc": "./internCert.png"
+  },
+  {
+    "Name": "Internship Certificate",
+    "Company": "Axe Technologies",
+    "IssueDate": "Aug 2023",
+    "Link": "https://drive.google.com/file/d/1J1ePzseZ8jz8JqlV6qIi8v7RpL5qpp2m/view?usp=sharing",
+    "ImgSrc": "./axeIntern.png"
   }
 ]
