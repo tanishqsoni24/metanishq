@@ -8,10 +8,6 @@
     "path": "./css.svg"
   },
   {
-    "name": "SASS",
-    "path": "./sass.svg"
-  },
-  {
     "name": "Bootstrap",
     "path": "./bootstrap-5-1.svg"
   },
@@ -44,20 +40,8 @@
     "path": "./python.svg"
   },
   {
-    "name": "Pyspark",
-    "path": "./spark.svg"
-  },
-  {
     "name": "SQL",
     "path": "./sql.svg"
-  },
-  {
-    "name": "Databricks",
-    "path": "./databricks.svg"
-  },
-  {
-    "name": "DBT",
-    "path": "./dbt-logo-500AB0BAA7-seeklogo.com.png"
   },
   {
     "name": "Git & Github",
@@ -68,10 +52,6 @@
     "path": "./java.svg"
   },
   {
-    "name": "Azure",
-    "path": "./azure.svg"
-  },
-  {
     "name": "AWS",
     "path": "./aws-logo.png"
   },
@@ -80,19 +60,37 @@
     "path": "./docker.svg"
   },
   {
-    "name": "Kubernetes",
-    "path": "./kubernetes.svg"
-  },
-  {
-    "name": "Jupyter Notebook",
-    "path": "./jupyter.svg"
-  },
-  {
     "name": "Postman",
     "path": "./postman.svg"
   },
   {
     "name": "VS Code",
     "path": "./visual-studio-code.svg"
+  },
+  {
+    "name": "PostgreSQL",
+    "path": "./postgresql.svg"
+  },
+  {
+    "name" : "MongoDB",
+    "path" : "./mongodb.svg"
+  },
+  {
+    "name" : "Django",
+    "path" : "./djangoproject.svg"
+  },
+  {
+    "name" : "TypeScript",
+    "path" : "./typescript.svg"
+  },
+  {
+    "name" : "Nginx",
+    "path" : "./nginx.svg"
+  },
+  {
+    "name" : "Linux OS",
+    "path" : "./linux.svg"
   }
 ]
+
+

@@ -11,33 +11,33 @@ export default function Home() {
         // style={{ margin: "13rem auto 17rem auto" }}
       >
         <p className="name font-medium text-white text-8xl content-center">
-          Saumya <span className="text-sky-500">Gupta</span>
+          Tanishq <span className="text-sky-500">Soni</span>
         </p>
         <p className="title text-white text-2xl">
-          Software Developer & Data Engineer
+          Freelance Ful Stack Developer | Software Developer 
         </p>
         <p className="socials text-white text-3xl flex gap-x-6 mt-2">
-          <a href="mailto:saumyagupta2025@gmail.com" target="_blank">
+          <a href="mailto:tanishqsoni0309@gmail.com" target="_blank">
             <i className="fa-solid fa-envelope text-white"></i>
           </a>
           <a
-            href="https://drive.google.com/file/d/1jJToGehjuY-_k25PzDQHH9KDiEj8EFL_/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1jIs3NsMhdLbrRst1X31EVfvQxA11nxE9/view?usp=sharing"
             target="_blank"
           >
             <i className="fa-solid fa-file-lines text-white"></i>
           </a>
-          <a href="https://www.linkedin.com/in/saumya2029/" target="_blank">
+          <a href="https://www.linkedin.com/in/tanishqsoni/" target="_blank">
             <i className="fa-brands fa-linkedin text-white"></i>
           </a>
 
-          <a href="https://github.com/saumyagupta2025" target="_blank">
+          <a href="https://github.com/tanishqsoni24" target="_blank">
             <i className="fa-brands fa-github text-white"></i>
           </a>
-          <a href="https://twitter.com/saumya_812" target="_blank">
+          <a href="https://twitter.com/TanishqSoni__" target="_blank">
             <i className="fa-brands fa-twitter text-white"></i>
           </a>
 
-          <a href="https://saumyagupta.hashnode.dev/" target="_blank">
+          <a href="https://tanishqsoni.hashnode.dev/" target="_blank">
             <i className="fa-brands fa-hashnode text-white"></i>
           </a>
         </p>

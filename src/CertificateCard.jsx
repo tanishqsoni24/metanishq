@@ -23,18 +23,16 @@ export default function CertificationCard(props) {
             Issue Date: {props.IssueDate}
           </p>
         </div>
-        <button
-          className="px-5 py-1 rounded-xl my-4 flex view-credential-btn"
+        <a
+          href={props.Link}
+          className="px-5 py-1 rounded-xl flex view-credential-btn"
           style={{
             backgroundColor: "#0284c7",
             color: "#fff",
             margin: " 0 auto",
           }}
-        >
-          <a href={props.Link} target="_blank">
-            View credential
-          </a>
-        </button>
+        >View credential
+        </a>
       </div>
     </>
   );

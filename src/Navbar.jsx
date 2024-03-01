@@ -49,7 +49,7 @@ export default function Navbar() {
           zIndex: "10000",
         }}
       >
-        <div className="my-logo font-medium text-white">SG</div>
+        <div className="my-logo font-medium text-white">TS</div>
         <div className="toggle-icon text-white" onClick={handleToggleClick}>
           {mobileNavOpen ? (
             <i className="fa-solid fa-xmark"></i> // Cross icon for closing
@@ -74,15 +74,12 @@ export default function Navbar() {
           <a href="#projects-container" className="project">
             Projects
           </a>
-          <a href="#publications-container" className="publication">
-            Publications
-          </a>
 
           <a href="#certifications-container" className="certification">
             Certifications
           </a>
           <a
-            href="https://saumyagupta.hashnode.dev/"
+            href="https://tanishqsoni.hashnode.dev/"
             target="_blank"
             className="certification"
           >
@@ -143,13 +140,6 @@ export default function Navbar() {
             Projects
           </a>
           <a
-            href="#publications-container"
-            className="publication"
-            onClick={handleNavItemClick}
-          >
-            Publications
-          </a>
-          <a
             href="#certifications-container"
             className="certification"
             onClick={handleNavItemClick}
@@ -157,7 +147,7 @@ export default function Navbar() {
             Certifications
           </a>
           <a
-            href="https://saumyagupta.hashnode.dev/"
+            href="https://tanishqsoni.hashnode.dev/"
             className="blogs"
             target="_blank"
             onClick={handleNavItemClick}

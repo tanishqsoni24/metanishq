@@ -18,7 +18,6 @@ function App() {
       <Skills />
       <WorkEx />
       <Projects />
-      <Publications />
       <Certifications />
       <Footer />
     </div>
