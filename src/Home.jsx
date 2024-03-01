@@ -14,7 +14,7 @@ export default function Home() {
           Tanishq <span className="text-sky-500">Soni</span>
         </p>
         <p className="title text-white text-2xl">
-          Freelance Ful Stack Developer | Software Developer 
+          A Seasoned Full Stack Developer
         </p>
         <p className="socials text-white text-3xl flex gap-x-6 mt-2">
           <a href="mailto:tanishqsoni0309@gmail.com" target="_blank">
