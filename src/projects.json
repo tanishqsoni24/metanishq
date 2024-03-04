@@ -4,7 +4,7 @@
     "Desc": "BookEat, A web platform facilitating restaurant table reservations and food pre-orders Led implementation of OTP-based authentication for secure user and restaurant owner sign-ups. Ensured platform integrity through admin verification of restaurant listings, enhancing reliability and trustworthiness. Implemented geolocation integration for on-the-go restaurant locating, enhancing user convenience and accessibility.",
     "Demo": "https://bookeat.xyz/client/home-02.html",
     "ImgSrc": "./proj1.png",
-    "category": "frontend"
+    "category": "fullstack"
   },
 
   {
@@ -36,5 +36,12 @@
     "GithubLink": "https://github.com/tanishqsoni24/paytm",
     "ImgSrc": "./proj5.png",
     "category": "fullstack"
+  },
+  {
+    "Name": "Zerodha - Landing Page Design",
+    "Desc": "Zerodha is a leading online stock trading platform that offers a wide range of investment options for users. The Zerodha landing page is designed to provide users with a comprehensive overview of the platform's features and benefits, helping them make informed decisions about their investment strategies. The page is designed to be visually appealing and user-friendly, with clear and concise information that is easy to understand.",
+    "Demo": "https://tanishqsoni24.github.io/zerodha-landing/",
+    "ImgSrc": "./proj6.png",
+    "category": "frontend"
   }
 ]

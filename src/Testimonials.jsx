@@ -7,7 +7,7 @@ export default function Testimonials() {
       <div
         id="testimonials-container"
         className="certifications-container py-20 px-16 bg-slate-950"
-        style={{ zIndex: 100, position: "relative" }}
+        style={{ position: "relative" }}
       >
         <h3 className="text-sky-500 text-center text-3xl font-bold mb-14">
           Testi<span className="text-white">Monials</span>

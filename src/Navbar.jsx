@@ -40,13 +40,12 @@ export default function Navbar() {
   return (
     <>
       <div
-        className={`navbar-container flex justify-between items-center h-14 px-48 py-10 md:px-24 ${
+        className={`navbar-container flex justify-between items-center h-14 px-48 py-10 md:px-24 z-[1000] ${
           opaque && "bg-slate-950"
         }`}
         style={{
           position: "fixed",
           width: "100%",
-          zIndex: "10000",
         }}
       >
         <div className="my-logo font-medium text-white">TS</div>

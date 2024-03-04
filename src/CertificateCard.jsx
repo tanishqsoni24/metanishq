@@ -1,8 +1,15 @@
+import React, { useState } from "react";
+import ViewFullImage from "./ViewFullImage";
+
+
 export default function CertificationCard(props) {
+
+  const [toggleFullImage, setToggleFullImage] = useState(false);
+
   return (
     <>
       <div
-        className="card-container border-solid border-gray-50 p-4 flex flex-col justify-start pb-6"
+        className="card-container border-solid border-gray-50 p-3 flex flex-col justify-start"
         style={{
           width: "20rem",
           border: "0.5px solid #0369a1",
@@ -23,17 +30,33 @@ export default function CertificationCard(props) {
             Issue Date: {props.IssueDate}
           </p>
         </div>
+        <div className="flex">
+        <a
+          className="px-5 py-1 mx-1 text-sm text-center border border-[#0284c7] rounded flex view-credential-btn"
+          style={{
+            color: "#fff",
+          }}
+          onClick={() => setToggleFullImage(true)}
+        >View Certificate
+        </a>
         <a
           href={props.Link}
-          className="px-5 py-1 rounded-xl flex view-credential-btn"
+          className="px-5 py-1 mx-1 text-sm text-center bg-[#0284c7] rounded flex view-credential-btn"
           style={{
             backgroundColor: "#0284c7",
             color: "#fff",
-            margin: " 0 auto",
           }}
         >View credential
         </a>
+        </div>
       </div>
+
+      {toggleFullImage && (
+        <ViewFullImage
+          imgSrc={props.ImgSrc}
+          setToggleFullImage={setToggleFullImage}
+        />
+      )}
     </>
   );
 }
