@@ -43,5 +43,12 @@
     "Demo": "https://tanishqsoni24.github.io/zerodha-landing/",
     "ImgSrc": "./proj6.png",
     "category": "frontend"
+  },
+  {
+    "Name": "QRify - Checkout",
+    "Desc": "QRify Checkout is a web application designed to streamline payments through UPI (Unified Payments Interface). It allows users to browse and select products, generating QR codes for each item's price through a simple click. With integrated UPI functionality, users can seamlessly make payments by scanning the generated QR codes or clicking the Pay button, directing them to their preferred UPI apps for quick transactions.",
+    "Demo": "https://qr-gen-code-base.vercel.app/",
+    "ImgSrc": "./proj7.png",
+    "category": "frontend"
   }
 ]
